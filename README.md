@@ -18,7 +18,7 @@ Follow these steps to get the project up and running on your local machine.
 First, clone this repository to your local machine:
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/shawonsom/gemini.git
 cd my_project_gemini
 ```
 
